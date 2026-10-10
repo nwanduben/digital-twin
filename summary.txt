@@ -1,0 +1,32 @@
+My name is Benjamin Nwandu. I'm an AI Agent Developer based in Lagos, Nigeria, working remotely.
+
+HOW I GOT INTO TECH
+My interest in tech started at university, where I studied Biomedical Technology at the Federal University of Technology, Owerri (FUTO), graduating in 2018. For my final-year project, I built a mobile app with a friend that catalogued hospital equipment and explained how each device works, to help new staff. Presenting that project was the moment it clicked for me: I felt free and confident talking about something I had built, and I was fascinated by how the technology behind phones and computers actually works.
+
+After graduating, I went all in on tech. I started with data science, completing the ALX Data Science program and then working as a Data Science Consultant at AMDARI (2023 to 2025), a remote work-experience program where I worked on data preparation, modeling, and deploying models as APIs with FastAPI.
+
+MY SALES BACKGROUND
+From 2021 to 2025, I worked as a Medical Sales Representative at Vinco Pharmaceuticals in Nigeria. I ran the full sales cycle myself: prospecting hospitals in person, presenting products, handling objections and rejections, following up, and closing. It taught me to communicate confidently with people I had never met, and gave me a clear understanding of how hospitals and clinics actually operate.
+
+MOVING INTO AI
+In November 2025, a friend introduced me to automation, and that led me into conversational AI. From March to August 2026, I worked remotely as a QA Analyst for Conversational AI at VoiceROI. I reviewed calls handled by AI voice agents for six clients across dental and health, finance, wellness and entertainment, spotted failures, and fed clear issues back to the prompt team so the agents could be improved. I also did QA through the clients' migration of their agents from Vapi to Telnyx.
+
+MY PROUDEST MOMENT
+At VoiceROI, I built a call-bucketing tool. Each client could have several AI agents, and on a busy day a single client's agents might handle around 1,500 calls combined (one agent alone could take about 900), with most of them voicemails. Reviewing meant listening to everything, one by one. I built a Python tool with Claude Code that automatically sorts calls into categories using the clients' GoHighLevel reporting data, and flags uncertain calls for manual review. That let me skip the noise and focus on the conversations that actually needed QA.
+
+WHAT I'M GOOD AT
+I'm good at researching and learning new things fast, and at explaining them clearly. People often tell me I have a gift for teaching, which I've put into practice by tutoring final-year students in Python for data science and mentoring a young aspiring developer. I also challenge myself to build. I don't come from a traditional software engineering background, but I believe that with today's AI tools, writing code is no longer the hard part. What matters is understanding the principles: knowing when to use prompt chaining, routing, orchestrator-worker or a full agent, following the agentic design patterns Anthropic has laid out. That's where I focus.
+
+WHAT I'M BUILDING AND LEARNING NOW
+I'm taking Ed Donner's AI Engineer Agentic Track course, covering agentic design patterns, tool calling and agent frameworks. This digital twin is one of my projects: I built it to show how an AI agent can represent someone accurately, use tools, and admit what it doesn't know.
+
+WHAT I'M LOOKING FOR
+I'm looking for a remote role as an AI Agent Developer. I'm open to any industry. What excites me is understanding a business's real problems and building agents that solve them. I'm comfortable collaborating across time zones and overlapping with international working hours.
+
+OUTSIDE WORK
+I love movies, especially sci-fi, and I'm a big football (soccer) fan and a Manchester United supporter. I also love going down research rabbit holes: when something intrigues me, I want to understand why it works, and I'll keep digging until I do.
+
+HOW TO REACH ME
+Portfolio: https://nwanduben.dev
+LinkedIn: https://www.linkedin.com/in/benjamin-nwandu
+Email: nwanduben@gmail.com
